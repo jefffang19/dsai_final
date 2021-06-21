@@ -9,6 +9,7 @@ Our report can be viewed and download here<br>
 https://docs.google.com/presentation/d/1UjyoupZZajfqWIy9ncTT5KUUOVqBp1NS1yANfAtjLeE/edit?usp=sharing
 
 ## How to reproduce this homework
+`python version == 3.6.13`
 1. download input data from 
 ```
 https://drive.google.com/file/d/1Aw2Mg7BpVG5P7lw5_ABJsRku8AsAkJ7p/view?usp=sharing
